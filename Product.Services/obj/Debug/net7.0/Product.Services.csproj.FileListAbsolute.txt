@@ -1,0 +1,17 @@
+C:\Users\Alexander\source\repos\Product.Services\obj\Debug\net7.0\Product.Services.csproj.AssemblyReference.cache
+C:\Users\Alexander\source\repos\Product.Services\obj\Debug\net7.0\Product.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexander\source\repos\Product.Services\obj\Debug\net7.0\Product.Services.AssemblyInfoInputs.cache
+C:\Users\Alexander\source\repos\Product.Services\obj\Debug\net7.0\Product.Services.AssemblyInfo.cs
+C:\Users\Alexander\source\repos\Product.Services\obj\Debug\net7.0\Product.Services.csproj.CoreCompileInputs.cache
+C:\Users\Alexander\source\repos\Product.Services\bin\Debug\net7.0\Product.Services.deps.json
+C:\Users\Alexander\source\repos\Product.Services\bin\Debug\net7.0\Product.Services.dll
+C:\Users\Alexander\source\repos\Product.Services\bin\Debug\net7.0\Product.Services.pdb
+C:\Users\Alexander\source\repos\Product.Services\bin\Debug\net7.0\Product.DAL.dll
+C:\Users\Alexander\source\repos\Product.Services\bin\Debug\net7.0\Product.Domain.dll
+C:\Users\Alexander\source\repos\Product.Services\bin\Debug\net7.0\Product.DAL.pdb
+C:\Users\Alexander\source\repos\Product.Services\bin\Debug\net7.0\Product.Domain.pdb
+C:\Users\Alexander\source\repos\Product.Services\obj\Debug\net7.0\Product.Services.csproj.CopyComplete
+C:\Users\Alexander\source\repos\Product.Services\obj\Debug\net7.0\Product.Services.dll
+C:\Users\Alexander\source\repos\Product.Services\obj\Debug\net7.0\refint\Product.Services.dll
+C:\Users\Alexander\source\repos\Product.Services\obj\Debug\net7.0\Product.Services.pdb
+C:\Users\Alexander\source\repos\Product.Services\obj\Debug\net7.0\ref\Product.Services.dll

@@ -1,0 +1,17 @@
+C:\Users\Alexander\source\repos\Product.DAL\obj\Debug\net7.0\Product.DAL.csproj.AssemblyReference.cache
+C:\Users\Alexander\source\repos\Product.DAL\obj\Debug\net7.0\Product.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexander\source\repos\Product.DAL\obj\Debug\net7.0\Product.DAL.AssemblyInfoInputs.cache
+C:\Users\Alexander\source\repos\Product.DAL\obj\Debug\net7.0\Product.DAL.AssemblyInfo.cs
+C:\Users\Alexander\source\repos\Product.DAL\obj\Debug\net7.0\Product.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Alexander\source\repos\Product.DAL\bin\Debug\net7.0\Product.DAL.deps.json
+C:\Users\Alexander\source\repos\Product.DAL\bin\Debug\net7.0\Product.DAL.runtimeconfig.json
+C:\Users\Alexander\source\repos\Product.DAL\bin\Debug\net7.0\Product.DAL.dll
+C:\Users\Alexander\source\repos\Product.DAL\bin\Debug\net7.0\Product.DAL.pdb
+C:\Users\Alexander\source\repos\Product.DAL\bin\Debug\net7.0\Product.Domain.dll
+C:\Users\Alexander\source\repos\Product.DAL\bin\Debug\net7.0\Product.Domain.pdb
+C:\Users\Alexander\source\repos\Product.DAL\obj\Debug\net7.0\Product.DAL.csproj.CopyComplete
+C:\Users\Alexander\source\repos\Product.DAL\obj\Debug\net7.0\Product.DAL.dll
+C:\Users\Alexander\source\repos\Product.DAL\obj\Debug\net7.0\refint\Product.DAL.dll
+C:\Users\Alexander\source\repos\Product.DAL\obj\Debug\net7.0\Product.DAL.pdb
+C:\Users\Alexander\source\repos\Product.DAL\obj\Debug\net7.0\Product.DAL.genruntimeconfig.cache
+C:\Users\Alexander\source\repos\Product.DAL\obj\Debug\net7.0\ref\Product.DAL.dll
